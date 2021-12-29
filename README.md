@@ -10,7 +10,7 @@ You should have now successfully cloned the repository.
 ### Requirements
 This project was writen in Microsoft Visual Studio 2022 and will require platform toolset v143.
 This project was wrote and will only run on Windows.
-### Compiling the source
+### Compiling
 First, please make sure that you have Microsoft Visual Studio 2022 intalled, along with platform toolset v143.
 Open the .sln file included in the folder, with Microsoft Visual Studio 2022.
 After that, select the build options that correlate to the architecture of your desired target program <code>Release | x64/x86</code> and press Build.
